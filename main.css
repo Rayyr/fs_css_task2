@@ -1,0 +1,22 @@
+ 
+
+.main_services{
+    text-align: center;
+    font-size:xx-large
+   
+}
+
+.sub_div{
+    float:left;
+    text-align:center;
+    width: 33.33%;
+    font-size:x-large;
+    
+}
+
+ 
+i{
+    color:white;
+    background-color: orange;
+    font-size:70px;
+}
